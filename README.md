@@ -3,7 +3,7 @@
 ## In this repo :
 #### You will find after 10 days : 10 small Front End native projects 
 ##### 1- automotive-car-design
-##### 2-
+##### 2- fashion-design
 ##### 3-
 ##### 4-
 ##### 5-

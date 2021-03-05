@@ -1,7 +1,7 @@
 # 10-Website-Fast-Design
 ## During my exams period and not to leave coding
 ## In this repo :
-#### You will find after 10 days : 10 small Front End native projects 
+#### You will find after 10 days : 10 small Front End native projects ( inspired by @https://github.com/florinpop17 )
 ##### 1- automotive-car-design
 ##### 2- fashion-design
 ##### 3-

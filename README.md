@@ -6,7 +6,7 @@
 ##### 2- fashion-design
 ##### 3- foot-wear
 ##### 4- legal-design
-##### 5-
+##### 5- newspaper-design
 ##### 6-
 ##### 7-
 ##### 8-

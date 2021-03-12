@@ -9,6 +9,6 @@
 ##### 5- newspaper-design       
 ##### 6- portfolio-design
 ##### 7- restaurant-design       
-##### 8-
+##### 8- Streaming-design
 ##### 9-                     
 ##### 10-
